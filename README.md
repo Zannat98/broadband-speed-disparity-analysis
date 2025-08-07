@@ -1,2 +1,17 @@
-# broadband-speed-disparity-analysis
-This repository contains my individual contribution to a group data analysis project from the Howard University Data Science Bootcamp 2025. I investigated the research question: "What is the level of internet speed in rural areas compared to urban areas?" using classification, aggregation, and visualization techniques.
+# Broadband Speed Disparity Analysis (Urban vs Rural)
+
+This project investigates the disparity in broadband internet availability between urban and rural areas across various speed tiers in the United States. The analysis is based on FCC broadband access data, processed and visualized using Python.
+
+## Objective
+To identify and visualize how broadband availability differs in urban and rural areas, particularly as speed requirements increase (from 25/3 Mbps to 1000/100 Mbps). This reveals structural digital divides with implications for policy and infrastructure planning.
+
+## Key Findings
+- Urban areas consistently show higher broadband availability than rural ones.
+- The disparity becomes more pronounced at higher internet speeds.
+- Rural areas remain significantly underserved in premium broadband access.
+
+## Tools Used
+- **Python** (Pandas, NumPy)
+- **Matplotlib** for data visualization
+- **Jupyter Notebook** for analysis
+- Dataset: FCC MS Airband Fixed Broadband data
