@@ -15,3 +15,7 @@ To identify and visualize how broadband availability differs in urban and rural 
 - **Matplotlib** for data visualization
 - **Jupyter Notebook** for analysis
 - Dataset: FCC MS Airband Fixed Broadband data
+
+## Certificate 
+<img width="1021" height="784" alt="image" src="https://github.com/user-attachments/assets/a0ca9fd7-f4a0-4dc5-8eb8-e520a3a371f1" />
+
